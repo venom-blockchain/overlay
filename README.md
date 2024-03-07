@@ -18,7 +18,7 @@ Implementation of Overlay protocol in safe Rust. Overlay protocol runs on top of
 
 ### Prerequisites
 
-Rust complier v1.65+.
+Rust compiler v1.65+.
 
 ### Installing
 
